@@ -89,3 +89,17 @@ ml-python-foundations/
 ├── poetry.lock           # Locked dependency versions
 └── README.md             # This file
 ```
+
+## References
+
+[Project Jupyter](https://jupyter.org)
+
+[Poetry](https://python-poetry.org/)
+
+[Machine Learning with Python: Foundations](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-you-should-know)
+
+[StackOverflow - Jupyter kernel doesn't use Poetry environment](https://stackoverflow.com/a/78097001)
+
+[Jupyter Notebooks in VS Code ](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+
+[Reddit - Is there a smarter way to build requirements.txt files? ](https://www.reddit.com/r/learnpython/comments/1djw6y9/is_there_a_smarter_way_to_build_requirementstxt/)
